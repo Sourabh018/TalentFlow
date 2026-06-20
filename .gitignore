@@ -1,0 +1,16 @@
+# Credentials
+db.properties
+src/util/db.properties
+bin/util/db.properties
+
+# Compiled output
+bin/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
